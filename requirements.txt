@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+python-jose[cryptography]
+bcrypt
+pydantic[email]
+pytest
+pytest-cov
+httpx
